@@ -1,0 +1,10 @@
+Labels mean as per the following......
+
+
+0 = ThunderStorm 0001
+
+1 = Rainy 0010
+
+2 = Foggy 0100
+
+3 = Sunny 1000

@@ -1,0 +1,26 @@
+Data from year 1997 to 2015 and the attributes are as following,
+
+Max Temperature
+
+Min Temperature
+
+Max DewPoint
+
+Min DewPoint
+
+Max Humidity
+
+Min Humidity
+
+Max Pressure
+
+Min Pressure
+
+Max Visibility
+
+Min Visibility
+
+Mean Wind Speed
+
+
+Here Neural Networks with backpropagation and predict the weather and Keras library for the same.
